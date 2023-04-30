@@ -4,6 +4,7 @@ body{
 }
 .news,.main,.images{
 	display:inline-block;
+	
 }
 .heading{
 	background-color : #011e29;
@@ -29,12 +30,12 @@ body{
 .images{
 	background-color:white;
 	width:250px;
-	height:370px;
-	border-radius:15px
+	height:380px;
+	border-radius:15px;
+
     
 }
 img{
 	width:200px;
-	height:100px;
-	
+	height:100px;	
 }
