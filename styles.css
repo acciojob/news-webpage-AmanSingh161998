@@ -2,7 +2,9 @@
 body{
 	background-color: #f5f5f5;
 }
-
+.news,.main,.images{
+	display:inline-block;
+}
 .heading{
 	background-color : #011e29;
 	color:white;
